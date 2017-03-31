@@ -9,7 +9,6 @@ function potencia()
             echo $i."a la ".$j."= ".pow($i,$j)."<br>";
         }
     }
-
 }
 
 //aplicacion 12
